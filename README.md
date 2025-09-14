@@ -1,5 +1,7 @@
 # Big Data Coins (BDC)
 
+![BDC Logo](https://github.com/Bigdatacoins/BDC-Token/blob/main/logo.png)
+
 ## Overview
 Big Data Coins (BDC) is a decentralized cryptocurrency built on *Solana* that combines blockchain and AI to power a global data economy.  
 Users earn BDC tokens by sharing knowledge and insights, while businesses and researchers gain access to valuable datasets in a transparent and secure way.  
